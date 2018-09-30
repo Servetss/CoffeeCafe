@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Настройки"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:title="Выход"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_item4"
+        android:icon="@drawable/ic_refresh"
+        android:title="Refresh"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_item3"
+        android:icon="@drawable/ic_add"
+        android:title="Add"
+        app:showAsAction="always"/>
+
+</menu>

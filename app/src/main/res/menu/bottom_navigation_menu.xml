@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/towar"
+        android:icon="@drawable/ic_towar_selecter"
+        android:title=""/>
+    <item
+        android:id="@+id/zamow"
+        android:icon="@drawable/ic_zamow_selecter"
+        android:title=""/>
+    <item
+        android:id="@+id/send"
+        android:icon="@drawable/ic_send_selecter"
+        android:title=""/>
+    <item
+        android:id="@+id/listall"
+        android:icon="@drawable/ic_listall_selecter"
+        android:title=""/>
+
+    <item
+        android:id="@+id/AllData"
+        android:icon="@drawable/alldata_selector"
+        android:title=""/>
+</menu>
